@@ -11,11 +11,11 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 //        Hello bruv
 //                hows life
-                        life's good bro
-            wby? fsgdf
-                    fghdfgc
-                            fcgn
-                            sdfgdfh
-                                    dcfh
+          //              life's good bro
+//            wby? fsgdf
+  //                  fghdfgc
+    //                        fcgn
+      //                      sdfgdfh
+        //                            dcfh
     }
 }
