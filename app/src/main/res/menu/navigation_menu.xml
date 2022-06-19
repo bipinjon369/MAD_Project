@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home"
+        android:title="HOME" />
+
+    <item android:id="@+id/week"
+        android:title="EXPENSES THIS WEEK" />
+
+    <item android:id="@+id/month"
+        android:title="EXPENSES THIS MONTH" />
+
+    <item android:title="others">
+        <menu>
+            <item
+                android:id="@+id/about"
+                android:title="About Us"/>
+
+            <item
+                android:id="@+id/exit"
+                android:title="Exit"/>
+
+        </menu>
+    </item>
+</menu>

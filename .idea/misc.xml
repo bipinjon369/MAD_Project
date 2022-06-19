@@ -3,6 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/MAD_Project/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/MAD_Project/app/src/main/res/layout/fragment_about.xml" value="0.35520833333333335" />
+        <entry key="..\:/MAD_Project/app/src/main/res/layout/fragment_exit.xml" value="0.3596014492753623" />
+        <entry key="..\:/MAD_Project/app/src/main/res/layout/fragment_home.xml" value="0.3596014492753623" />
+        <entry key="..\:/MAD_Project/app/src/main/res/layout/fragment_month.xml" value="0.3596014492753623" />
+        <entry key="..\:/MAD_Project/app/src/main/res/layout/fragment_week.xml" value="0.3596014492753623" />
+        <entry key="..\:/MAD_Project/app/src/main/res/layout/headerfile.xml" value="0.358695652173913" />
+        <entry key="..\:/MAD_Project/app/src/main/res/layout/layout_navigation_header.xml" value="0.3596014492753623" />
+        <entry key="..\:/MAD_Project/app/src/main/res/menu/navigation_menu.xml" value="0.3671875" />
+        <entry key="..\:/MAD_Project/app/src/main/res/menu/sidemenu.xml" value="0.365625" />
         <entry key="..\:/Users/Kronos/AndroidStudioProjects/MAD_Project/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
       </map>
     </option>
